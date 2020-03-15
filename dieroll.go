@@ -14,6 +14,8 @@ import (
 *
 * Search the valid array for the max.
 *
+* The valid array contains the valid die types as ints:  d4, d6, d8, d10, d12, d10, d100
+*
 *
 *******************************************************/
 
