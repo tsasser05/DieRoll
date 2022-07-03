@@ -1,2 +1,2 @@
 # DieRoll
-Random number generator to simulate rolling dice
+Random number generator to simulate rolling dice.
